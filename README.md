@@ -3,7 +3,7 @@
 
 This project is a frontend clone of the award-winning website [Ochi Design](https://ochi.design/) . It aims to replicate the design and functionality of the original website using modern web development technologies.
 
-### Demo - https://currency-convertor-rust.vercel.app/
+### Demo - https://ochi-gilt.vercel.app/
 
 ## Steps to Run the Project Locally
 
